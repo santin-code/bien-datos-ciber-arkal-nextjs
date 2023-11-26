@@ -16,7 +16,7 @@ export default function Home() {
       </div>
 
       <div className=" items-center  grid lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
-        {/* {
+        {
           links.map((link, index) => (
             <a
             key={index}
@@ -36,7 +36,7 @@ export default function Home() {
             </p>
           </a>
           ))
-        } */}
+        } 
     
       </div>
     </main>
