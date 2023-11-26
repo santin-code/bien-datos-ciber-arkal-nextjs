@@ -13,6 +13,16 @@ const links = [
         route: 'https://nextdjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app',
         title: 'Docs',
         description: ' Find in-depth information about Next.js features and API.'
+    },
+    {
+        route: 'https://nextdjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app',
+        title: 'Docs',
+        description: ' Find in-depth information about Next.js features and API.'
+    },
+    {
+        route: 'https://nextdjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app',
+        title: 'Docs',
+        description: ' Find in-depth information about Next.js features and API.'
     }
 
 ];
