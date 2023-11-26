@@ -1,7 +1,7 @@
 import {links} from '@/app/lib/placeholder-data-links'
 import { Rubik_Maze } from 'next/font/google' 
 import Link from 'next/link'
-export const Maze = Rubik_Maze({
+const Maze = Rubik_Maze({
   weight: ['400'],
   subsets: ['latin'],
 })
