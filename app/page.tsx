@@ -1,13 +1,13 @@
 import {links} from '@/app/lib/placeholder-data-links'
 import { Rubik_Maze } from 'next/font/google' 
-export const rubik_maze = Rubik_Maze({
+export const Maze = Rubik_Maze({
   weight: ['400'],
   subsets: ['latin'],
 })
 export default function Home() {
   return (
     <>
-    <h1 className={`text-7xl flex m-6 justify-center ${rubik_maze.className}`}>ARKAL</h1>
+    <h1 className={`text-7xl flex m-6 justify-center ${Maze.className}`}>ARKAL</h1>
     <main className='w-11/12  flex justify-center items-center mx-auto h-screen'>
       
      
