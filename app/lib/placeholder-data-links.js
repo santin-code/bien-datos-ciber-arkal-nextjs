@@ -10,19 +10,14 @@ const links = [
         description: 'cartas estilizadas para el genero femenino'
     },
     {
-        route: 'https://nextdjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app',
-        title: 'Docs',
-        description: ' Find in-depth information about Next.js features and API.'
+        route: 'https://tailwindcss.com/docs/installation',
+        title: 'Tailwind CSS',
+        description: 'A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.'
     },
     {
-        route: 'https://nextdjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app',
-        title: 'Docs',
-        description: ' Find in-depth information about Next.js features and API.'
-    },
-    {
-        route: 'https://nextdjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app',
-        title: 'Docs',
-        description: ' Find in-depth information about Next.js features and API.'
+        route: '',
+        title: '',
+        description: ''
     }
 
 ];
