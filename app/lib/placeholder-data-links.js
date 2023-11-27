@@ -19,9 +19,9 @@ const links = [
     },
     {
         id: 4,
-        route: '',
-        title: '',
-        description: ''
+        route: 'https://nextjs.org/learn/dashboard-app',
+        title: 'Learn NextJS',
+        description: 'Curso de NextJS'
     }
 
 ];
