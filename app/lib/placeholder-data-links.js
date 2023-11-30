@@ -22,6 +22,24 @@ const links = [
         route: 'https://nextjs.org/learn/dashboard-app',
         title: 'Learn NextJS',
         description: 'Curso de NextJS'
+    },
+    {
+        id: 5,
+        route: 'https://drive.google.com/file/d/12zccVZSYQRQ5BL80iWtY6BQsu5UP2vSp/view?usp=sharing',
+        title: 'Antología señora Silvia',
+        description: 'Solo se imprimieron las paginas de la 1 a la 100'
+    },
+    {
+        id: 6,
+        route: 'https://drive.google.com/file/d/15sC3e8zWxYVDPwM1dXQGBxr5QJx9R7ms/view?usp=sharing',
+        title: 'Control Ciber',
+        description: 'Servidor para contar el tiempo en el ciber, Google drive nos advirtió sobre posible malware'
+    },
+    {
+        id: 8,
+        route: 'https://drive.google.com/file/d/13YJh-ToDcjHtkL2i7RBftc_g-F9yTcrr/view?usp=sharing',
+        title: 'El principito',
+        description: `a color $32, (ya engargolado $44)`
     }
 
 ];
